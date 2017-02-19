@@ -1,0 +1,1302 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-734990205",
+  "source": {
+   "name": "Binary1",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The base-2 number 011011 is equal to the base-10 number <<<27>>>.",
+   "tokens": {
+    "blank": [
+     "27"
+    ],
+    "text": [
+     "The base-2 number 011011 is equal to the base-10 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3098182283",
+  "source": {
+   "name": "Binary2",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The base-2 number 100110 is equal to the base-10 number <<<38>>>.",
+   "tokens": {
+    "blank": [
+     "38"
+    ],
+    "text": [
+     "The base-2 number 100110 is equal to the base-10 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2693127964",
+  "source": {
+   "name": "Binary3",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The base-2 number 110011 is equal to the base-10 number <<<51>>>.",
+   "tokens": {
+    "blank": [
+     "51"
+    ],
+    "text": [
+     "The base-2 number 110011 is equal to the base-10 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-745578810",
+  "source": {
+   "name": "Binary4",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The base-2 number 10100101 is equal to the base-10 number <<<165>>>.",
+   "tokens": {
+    "blank": [
+     "165"
+    ],
+    "text": [
+     "The base-2 number 10100101 is equal to the base-10 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-247106227",
+  "source": {
+   "name": "Hex1",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The base-2 number 10010011 is equal to the base-16 number <<<93>>>.",
+   "tokens": {
+    "blank": [
+     "93"
+    ],
+    "text": [
+     "The base-2 number 10010011 is equal to the base-16 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2522440883",
+  "source": {
+   "name": "Hex2",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The base-2 number 00111111 is equal to the base-16 number <<<3F>>>.",
+   "tokens": {
+    "blank": [
+     "3F"
+    ],
+    "text": [
+     "The base-2 number 00111111 is equal to the base-16 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3714858156",
+  "source": {
+   "name": "Hex3",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The base-2 number 11010001 is equal to the base-16 number <<<D1>>>.",
+   "tokens": {
+    "blank": [
+     "D1"
+    ],
+    "text": [
+     "The base-2 number 11010001 is equal to the base-16 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1859737673",
+  "source": {
+   "name": "Hex4",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The base-2 number 10000001 is equal to the base-16 number <<<81>>>.",
+   "tokens": {
+    "blank": [
+     "81"
+    ],
+    "text": [
+     "The base-2 number 10000001 is equal to the base-16 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3280849949",
+  "source": {
+   "name": "Circuit1",
+   "showName": false,
+   "instructions": "With input A = 1 and B = 0, what is the output at point Q?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "7dae7b30-9df6-addb-401d-600eabeb8bd8",
+     "correct": true,
+     "answer": "0"
+    },
+    {
+     "_id": "f880f644-a2ce-0497-0903-af3c26d01623",
+     "correct": false,
+     "answer": "1"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2432434647",
+  "source": {
+   "name": "Circuit2",
+   "showName": false,
+   "instructions": "With initial values A = 1, B = 1 what is the value at point D?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "6af7c763-3cb0-7994-82be-6e16219c9da6",
+     "correct": true,
+     "answer": "0"
+    },
+    {
+     "_id": "0119dd9e-a80f-b8aa-07ff-cdc2f3995f09",
+     "correct": false,
+     "answer": "1"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2892902400",
+  "source": {
+   "name": "Circuit3",
+   "showName": false,
+   "instructions": "With starting values A = 0, B = 1 what is the output at point D",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "09b170cb-0de0-1728-49df-abc70e9687dc",
+     "correct": false,
+     "answer": "0"
+    },
+    {
+     "_id": "e4103286-789a-de20-6b26-9df09a4aa428",
+     "correct": true,
+     "answer": "1"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3733154250",
+  "source": {
+   "name": "Abstraction1",
+   "showName": false,
+   "instructions": "Fill in each blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "The goal of problem deconstruction is to break each problem into <<<smaller>>> problems which can be solved separately.",
+   "tokens": {
+    "blank": [
+     "smaller"
+    ],
+    "text": [
+     "The goal of problem deconstruction is to break each problem into ",
+     0,
+     " problems which can be solved separately."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4245903732",
+  "source": {
+   "name": "Abstraction2",
+   "showName": false,
+   "instructions": "The sub problems of a deconstructed problem are guaranteed to be easy to solve.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "4025fe2d-1e63-7a4f-d6e6-f21bb0cc51cb",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "3f88382c-2c48-2489-eaba-2b4b799c163d",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3094364929",
+  "source": {
+   "name": "Abstraction3",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "Beyond simplifying a large problem, deconstruction allows teams to work on <<<different>>> parts of the <<<same>>> problem.",
+   "tokens": {
+    "blank": [
+     "different",
+     "same"
+    ],
+    "text": [
+     "Beyond simplifying a large problem, deconstruction allows teams to work on ",
+     0,
+     " parts of the ",
+     0,
+     " problem."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4111078957",
+  "source": {
+   "name": "Abstraction4",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "Making toast can be deconstructed to its component problems.\n1) <<<Open>>> bread sack.\n2) Press lever on <<<toaster>>>.\n3) Enjoy <<<toast>>>!",
+   "tokens": {
+    "blank": [
+     "Open",
+     "toaster",
+     "toast"
+    ],
+    "text": [
+     "Making toast can be deconstructed to its component problems.\n1) ",
+     0,
+     " bread sack.\n2) Press lever on ",
+     0,
+     ".\n3) Enjoy ",
+     0,
+     "!"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-45154779",
+  "source": {
+   "name": "Variable1",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "A variable is a named <<<container>>>.",
+   "tokens": {
+    "blank": [
+     "container"
+    ],
+    "text": [
+     "A variable is a named ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1653382678",
+  "source": {
+   "name": "Variable2",
+   "showName": false,
+   "instructions": "Which data type would be used for a number with a decimal like the number 3.14?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "47b2800d-7e50-da47-b7e2-6eb3e0a194a8",
+     "correct": false,
+     "answer": "Integer"
+    },
+    {
+     "_id": "7dece8dc-059b-daa3-c63e-e28178a36e50",
+     "correct": true,
+     "answer": "Float"
+    },
+    {
+     "_id": "4045bb1c-9e3e-686a-7797-6370be30532b",
+     "correct": false,
+     "answer": "String"
+    },
+    {
+     "_id": "16bc2f2d-2bfe-9df6-3799-8866c38bdb72",
+     "correct": false,
+     "answer": "Boolean"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1805110219",
+  "source": {
+   "name": "Variable3",
+   "showName": false,
+   "instructions": "A method called isEven(num) would most likely return a variable of what type?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "987891be-a208-e612-0770-1cebd41a531f",
+     "correct": false,
+     "answer": "integer"
+    },
+    {
+     "_id": "c62166bc-4ae5-89a5-b782-19da8ee4c4f0",
+     "correct": false,
+     "answer": "float"
+    },
+    {
+     "_id": "a0ef8b14-e756-16d4-3bdb-e284d64fc5d6",
+     "correct": false,
+     "answer": "String"
+    },
+    {
+     "_id": "96b68090-09d7-3cdb-fa25-c98a94b58a44",
+     "correct": true,
+     "answer": "boolean"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1382240762",
+  "source": {
+   "name": "Variable4",
+   "showName": true,
+   "instructions": "Which method would return the square root of a number?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "dee2425b-85a7-1e55-9586-80138f252857",
+     "correct": false,
+     "answer": "square()"
+    },
+    {
+     "_id": "06eac975-72fc-5d11-1c2d-33a52a516feb",
+     "correct": false,
+     "answer": "squareRoot()"
+    },
+    {
+     "_id": "d8c0456e-3fb4-d422-28ab-ba016a27140c",
+     "correct": false,
+     "answer": "isRoot(num)"
+    },
+    {
+     "_id": "d016a447-3e7d-cf9b-713d-f727853203cd",
+     "correct": true,
+     "answer": "squareRoot(num)"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1600003146",
+  "source": {
+   "name": "Variables5",
+   "showName": false,
+   "instructions": "An integer list nums = [2, 4, 6, 8]\nWhat is the output of nums[2]?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "aa83bcd0-12cc-a3e5-0f91-caea14746467",
+     "correct": false,
+     "answer": "0"
+    },
+    {
+     "_id": "4e404a86-3b9b-296c-958b-0967700354f4",
+     "correct": false,
+     "answer": "4"
+    },
+    {
+     "_id": "ba1637c3-37a0-336d-bc52-d35f1b800dfd",
+     "correct": true,
+     "answer": "6"
+    },
+    {
+     "_id": "edcf4835-f5e5-7198-8dc1-9d587652499d",
+     "correct": false,
+     "answer": "8"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1510965826",
+  "source": {
+   "name": "Model1",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "A <<<model>>> represents the actions and responses of a real-world object.",
+   "tokens": {
+    "blank": [
+     "model"
+    ],
+    "text": [
+     "A ",
+     0,
+     " represents the actions and responses of a real-world object."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4268322932",
+  "source": {
+   "name": "Model2",
+   "showName": false,
+   "instructions": "Which of the following are benefits of modeling and simulation?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "6a3c5aa3-6322-aa22-1582-2aee3fd86049",
+     "correct": true,
+     "answer": "Allows us to see possible effects of a change."
+    },
+    {
+     "_id": "c47c7b9d-ba32-2a53-b270-588e08a3fb0c",
+     "correct": false,
+     "answer": "Guaranteed to be the same as real-world events."
+    },
+    {
+     "_id": "13443b59-c855-054b-c4a1-d1ca679c44ff",
+     "correct": true,
+     "answer": "Models reflect the most important elements of object it represnets."
+    },
+    {
+     "_id": "be07f860-bc12-4e39-57fa-f9f7e02c6279",
+     "correct": true,
+     "answer": "Simulations can help predict future events."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1742080164",
+  "source": {
+   "name": "Model3",
+   "showName": false,
+   "instructions": "An animal like a bird can be modeled.  Many bird models can be simulated to explore flocking behavior.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "30c56380-f503-2063-6a1e-d18ddb1c9787",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "4ed53902-e9af-7278-f2bb-37f9292e2597",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3507731091",
+  "source": {
+   "name": "Model4",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "Individual pieces of a board game can be <<<modeled>>> and the game itself can be <<<simulated>>>.",
+   "tokens": {
+    "blank": [
+     "modeled",
+     "simulated"
+    ],
+    "text": [
+     "Individual pieces of a board game can be ",
+     0,
+     " and the game itself can be ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-738371811",
+  "source": {
+   "name": "Hex1",
+   "showName": false,
+   "instructions": "Convert each hexadecmail to binary or binary to hexadecimal.  Each binary number will be an 8-bit number.  Include leading zeros if needed.",
+   "points": "6",
+   "showValues": false,
+   "text": "Binary: 11000000 Hexadecimal: <<<60>>>\nBinary: <<<00101010>>> Hexadecimal: 2A\nBinary: 11110000 Hexadecimal: <<<F0>>>\nBinary: 00000011 Hexadecimal: <<<03>>>\nBinary: <<<10111000>>> Hexadecimal: B8\nBinary: 01011010 Hexadecimal: <<<5A>>>",
+   "tokens": {
+    "blank": [
+     "60",
+     "00101010",
+     "F0",
+     "03",
+     "10111000",
+     "5A"
+    ],
+    "text": [
+     "Binary: 11000000 Hexadecimal: ",
+     0,
+     "\nBinary: ",
+     0,
+     " Hexadecimal: 2A\nBinary: 11110000 Hexadecimal: ",
+     0,
+     "\nBinary: 00000011 Hexadecimal: ",
+     0,
+     "\nBinary: ",
+     0,
+     " Hexadecimal: B8\nBinary: 01011010 Hexadecimal: ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3697006487",
+  "source": {
+   "name": "Representation1",
+   "showName": false,
+   "instructions": "Which of the following is NOT an image type?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "b2457cf4-9531-82a9-036d-d849e6be8de9",
+     "correct": false,
+     "answer": ".png"
+    },
+    {
+     "_id": "d643ba1f-309d-7579-a616-90ce96a2d169",
+     "correct": false,
+     "answer": ".gif"
+    },
+    {
+     "_id": "06390831-01ea-b40a-c043-e947fe297054",
+     "correct": false,
+     "answer": ".tiff"
+    },
+    {
+     "_id": "b4886e1a-b84f-9e33-2832-c3a811f64aad",
+     "correct": true,
+     "answer": ".pdf"
+    },
+    {
+     "_id": "95b51688-159b-3218-f032-15d3381ef0b6",
+     "correct": false,
+     "answer": ".jpg"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4239321160",
+  "source": {
+   "name": "Representation2",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "To compress an audio file, the high and low frequencies are removed since human ears are not good at perceiving these frequencies.  This type of compression is known as <<<lossy>>>.",
+   "tokens": {
+    "blank": [
+     "lossy"
+    ],
+    "text": [
+     "To compress an audio file, the high and low frequencies are removed since human ears are not good at perceiving these frequencies.  This type of compression is known as ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3732363718",
+  "source": {
+   "name": "Representation3",
+   "showName": false,
+   "instructions": "Fill in the blanks.  Word bank {encoding, encrypting}.",
+   "points": "2",
+   "showValues": false,
+   "text": "Changing one value to another to hide the true meaning is known as <<<encrypting>>> the data.\nChanging a value using a standardized method so it can be stored as machine code is known as <<<encoding>>>.",
+   "tokens": {
+    "blank": [
+     "encrypting",
+     "encoding"
+    ],
+    "text": [
+     "Changing one value to another to hide the true meaning is known as ",
+     0,
+     " the data.\nChanging a value using a standardized method so it can be stored as machine code is known as ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2609042643",
+  "source": {
+   "name": "Representation4",
+   "showName": false,
+   "instructions": "A compression method finds multiple letters in a row and converts them to a number-letter pair.  For example the word GOOD would become G20D to show that there are two Os in a row.  This method only makes the text smaller if there are three or more of the same letter in a row.  B7O would be BOOOOOOO.\n\nThis compression method would be:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "98ddd925-d219-06e8-8be5-4fd15fdf7f26",
+     "correct": false,
+     "answer": "Lossy"
+    },
+    {
+     "_id": "c93d3793-e428-d695-07ef-0b3f4c2fd5b7",
+     "correct": true,
+     "answer": "Lossless"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-882371309",
+  "source": {
+   "name": "Storage1",
+   "showName": false,
+   "instructions": "A file on your computer desktop is most likely saved:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "492356bc-58b0-4cb5-c46f-d0fab5e02867",
+     "correct": true,
+     "answer": "On your computer's hard drive"
+    },
+    {
+     "_id": "a27775e3-5535-d6a4-11a4-8e18ab65b6a4",
+     "correct": false,
+     "answer": "In a database"
+    },
+    {
+     "_id": "cdd64ab8-ff7b-38be-1ce9-152c8bf5ef3b",
+     "correct": false,
+     "answer": "In the cloud... a datacenter somewhere in the world."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3907219741",
+  "source": {
+   "name": "Storage2",
+   "showName": false,
+   "instructions": "A bank would likely store their user data in:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "ff694339-0c3a-b07f-1644-725731caf41b",
+     "correct": false,
+     "answer": "Individual files"
+    },
+    {
+     "_id": "6ca3e4fc-979b-ca4e-0510-6b1ca040ffd8",
+     "correct": true,
+     "answer": "In a database"
+    },
+    {
+     "_id": "4d7960f5-3bfc-31f5-9f70-d0dc3d33754b",
+     "correct": false,
+     "answer": "In a computer, disconnected from the network."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1147970063",
+  "source": {
+   "name": "Storage3",
+   "showName": false,
+   "instructions": "In the CIA security triad, what does C stand for?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "83ef212a-7004-f0e7-b52a-43137b03a969",
+     "correct": false,
+     "answer": "Certified"
+    },
+    {
+     "_id": "639fdf49-7a7b-2e3b-ee86-19bcb95ee977",
+     "correct": false,
+     "answer": "Censored"
+    },
+    {
+     "_id": "34ccbdcb-3f39-435f-090a-996102e570b7",
+     "correct": true,
+     "answer": "Confidentiality"
+    },
+    {
+     "_id": "90798352-7d55-bb22-fe5c-50b34ec6076c",
+     "correct": false,
+     "answer": "Conspicuous"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1315418646",
+  "source": {
+   "name": "Storage4",
+   "showName": false,
+   "instructions": "To ensure user privacy, old hard drives form a data center are __________________ before they are thrown out.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "777e63e4-d835-5027-67b0-61c887f57b44",
+     "correct": true,
+     "answer": "Physically destroyed"
+    },
+    {
+     "_id": "f950c551-bac0-23b0-cd2b-1970719d0380",
+     "correct": false,
+     "answer": "Erased with software"
+    },
+    {
+     "_id": "53707976-5626-48d4-8161-f836212fe22c",
+     "correct": false,
+     "answer": "Magnetically erased"
+    },
+    {
+     "_id": "b61ae7b8-d969-2475-ec40-788bade799f2",
+     "correct": false,
+     "answer": "Stored in a vault"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4217103879",
+  "source": {
+   "name": "Storage5",
+   "showName": false,
+   "instructions": "Which is NOT a benefit of storing data \"in the cloud\"?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "1d371e5c-c740-8b09-b6df-ca3fb58994b2",
+     "correct": false,
+     "answer": "Always available"
+    },
+    {
+     "_id": "548ef350-5bb9-808b-5ced-2df2fba22b64",
+     "correct": false,
+     "answer": "Changes on one computer show up on all computers with access to data"
+    },
+    {
+     "_id": "bbb2a348-fee5-c5bb-8f5e-91c30c612339",
+     "correct": false,
+     "answer": "Simplicity of sharing data with others"
+    },
+    {
+     "_id": "d39c5dc5-c22d-6b66-7f24-93c8bd13a612",
+     "correct": true,
+     "answer": "Increased security"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1954155801",
+  "source": {
+   "name": "Embedded1",
+   "showName": false,
+   "instructions": "Embedded Systems are in many everyday devices.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "0944dc9d-1b12-aa5a-a83f-4865ef363d83",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "3fe0b0ee-7848-8c1a-a592-b25938c10cec",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2578031038",
+  "source": {
+   "name": "Embedded2",
+   "showName": false,
+   "instructions": "Modern \"smart\" appliances rely on an embedded system to communicate.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "287f2ece-0e77-dd12-d335-d335d7b3ef4f",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "45693e55-e5ad-70cd-e58d-66c22fe31cb2",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1656570417",
+  "source": {
+   "name": "Embedded3",
+   "showName": false,
+   "instructions": "Word bank: Voltage, LEDs.",
+   "points": "2",
+   "showValues": false,
+   "text": "Dimmable LED light blubs work by turning off some of the LEDs that are in a cluster as the voltage drops.  In this scenario an embedded micro controller is responding to the <<<voltage>>> as an input and using the <<<LEDs>>> as an output.",
+   "tokens": {
+    "blank": [
+     "voltage",
+     "LEDs"
+    ],
+    "text": [
+     "Dimmable LED light blubs work by turning off some of the LEDs that are in a cluster as the voltage drops.  In this scenario an embedded micro controller is responding to the ",
+     0,
+     " as an input and using the ",
+     0,
+     " as an output."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3460352009",
+  "source": {
+   "name": "Embedded4",
+   "showName": false,
+   "instructions": "Security is a concern with embedded systems.  If a system is connected to the Internet, it could be hacked.  Which of the following are embedded systems that could (theoretically) be hacked by someone across the Internet?",
+   "points": "4",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "61b1856e-1b1c-3443-3a77-10117d205a56",
+     "correct": true,
+     "answer": "A camera that allows you to check in on your home while away"
+    },
+    {
+     "_id": "a9c1084a-7efe-0f52-63f4-2dc79b79f79b",
+     "correct": false,
+     "answer": "A coffee maker that has an embedded timer to brew coffee at the same time each day."
+    },
+    {
+     "_id": "4270ece7-9024-63e9-5e6a-b3f863a5b18d",
+     "correct": true,
+     "answer": "A thermostat that learns as you use it and gives you a weekly summary of your energy usage to your phone."
+    },
+    {
+     "_id": "c1503ed4-1baf-b57d-fb97-5f97f1c88524",
+     "correct": true,
+     "answer": "A voice activated assistant that can tell you the weather, or other information."
+    },
+    {
+     "_id": "a3b8b7b8-1c35-dbba-236d-12a438e58528",
+     "correct": false,
+     "answer": "An automatic pet feeder that releases food at a set time throughout the day."
+    },
+    {
+     "_id": "9c1a5d39-b4ce-6e8b-9324-359ca7b0336d",
+     "correct": true,
+     "answer": "A fitness band that tracks your steps and activity throughout the day and allowing you to compete against friends for \"most active\" bragging rights."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1995776548",
+  "source": {
+   "name": "Data1",
+   "showName": false,
+   "instructions": "The term \"big data\" refers to",
+   "points": "3",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "df4d7850-0f15-6687-231b-480978967301",
+     "correct": false,
+     "answer": "Very large numbers used in cryptography."
+    },
+    {
+     "_id": "3416ed5e-b795-3618-5a56-750de75aa4e8",
+     "correct": true,
+     "answer": "Many individual data points gathered across thousands or millions of people."
+    },
+    {
+     "_id": "7a082b30-e8e1-bdf7-e6ca-59db262ecce9",
+     "correct": true,
+     "answer": "Data processing by computers to find patterns that could not be found by hand."
+    },
+    {
+     "_id": "9a12246d-b057-90f4-e335-0db6f0f77a24",
+     "correct": false,
+     "answer": "Large files that cannot fit onto one computer's hard drive."
+    },
+    {
+     "_id": "f9f1f388-8f92-5668-4d85-e830f727bdb5",
+     "correct": true,
+     "answer": "Large datasets about everything from individual shopping habits to decades of climate data all of which can be analyzed for patterns and trends at some later point."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-908064347",
+  "source": {
+   "name": "Data2",
+   "showName": false,
+   "instructions": "Data profiles are used to make predictions about individuals.  These profiles are made by:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "52abe226-df14-cda3-9c6b-6f1468390bac",
+     "correct": true,
+     "answer": "Comparing your online habits with thousands of other similar people and using their choices to predict your future choices."
+    },
+    {
+     "_id": "59d7aec7-001f-711f-086e-700fe9bb3ea5",
+     "correct": false,
+     "answer": "Building a detailed profile and model of you as an individual and running simulations on what you might do in different situations."
+    },
+    {
+     "_id": "a95a6ecd-95b8-b251-ec9c-0ea583498947",
+     "correct": false,
+     "answer": "Asking friends and family which of several options you would like."
+    },
+    {
+     "_id": "0c9c5e4d-1fd3-f3fa-c35e-975d7662a8be",
+     "correct": false,
+     "answer": "Showing the same advertisement to everyone hoping that some people will find it interesting."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4001673391",
+  "source": {
+   "name": "Data3",
+   "showName": false,
+   "instructions": "Metadata is:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "eab69b01-1c68-4026-b938-ff85ea34c7f9",
+     "correct": false,
+     "answer": "All the data about given communication including the message."
+    },
+    {
+     "_id": "fc0cb34e-608f-2793-0b3f-d26fd14f4617",
+     "correct": false,
+     "answer": "Data that has already been analysed to find trends or patterns."
+    },
+    {
+     "_id": "32f6de5f-7bee-595d-d205-03673a69e2cd",
+     "correct": true,
+     "answer": "Data about data like the time and duration of a phone call."
+    },
+    {
+     "_id": "85e207f7-8b8e-75e1-0138-731ebf5283b8",
+     "correct": false,
+     "answer": "Data that cannot be analysed or is useless."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-894833695",
+  "source": {
+   "name": "Data4",
+   "showName": false,
+   "instructions": "Public data sets can be accessed for use and analysis.  The way to access this data is:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "5c4802e7-49cf-b810-c9c3-b55e909c8eb3",
+     "correct": false,
+     "answer": "Collecting the data yourself."
+    },
+    {
+     "_id": "04255677-8e92-9e13-626c-8c8bee1cf01b",
+     "correct": true,
+     "answer": "Downloading the dataset."
+    },
+    {
+     "_id": "be7c8120-6bd7-02d7-5364-1c9b4254b56e",
+     "correct": true,
+     "answer": "Accessing the data through the public API."
+    },
+    {
+     "_id": "2053af85-f750-2755-28a6-fd9212689a6b",
+     "correct": false,
+     "answer": "Placing a \"request for analysis\" to a certified data scientist."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3445949494",
+  "source": {
+   "name": "Real1",
+   "showName": false,
+   "instructions": "The spread of information is similar to the spread of disease.  These can be modeled using computers to simulate connections.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "4c1de47b-1b15-f249-f08a-0bccd45d77b8",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "169e6b9f-a2e3-6343-cd7f-69c4735b3d5e",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-757853103",
+  "source": {
+   "name": "Real2",
+   "showName": false,
+   "instructions": "Social media allows people to \"like\" or \"follow\" people who are similar to themselves.  As a result, people who get their news from social media sites tend to only see articles that re-enforce their existing world-view.  This is known as:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "8e9c20c6-dd7c-4c54-c659-75700387e145",
+     "correct": true,
+     "answer": "Information Bubble"
+    },
+    {
+     "_id": "287bba79-518d-4acd-3afc-511d7362338c",
+     "correct": false,
+     "answer": "Information Desert"
+    },
+    {
+     "_id": "bccde553-0f2a-f625-06c6-dd9fdba17d98",
+     "correct": false,
+     "answer": "Information Oasis"
+    },
+    {
+     "_id": "81b2b79d-5b62-ff94-bc1c-1cc02402a36e",
+     "correct": false,
+     "answer": "Mis-information Machine"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-343768023",
+  "source": {
+   "name": "Real3",
+   "showName": false,
+   "instructions": "Disease transmission can be difficult to predict.  By running simulations, we can perfectly predict where a disease will spread.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "34951217-84fe-cfcd-b170-e1eeec83f7d3",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "d03ef206-f31e-c87a-9615-cc0ca9a3a9bf",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1876334578",
+  "source": {
+   "name": "Real4",
+   "showName": false,
+   "instructions": "Which of the following are things that computer scientists have modeled to learn more about their behaviors?",
+   "points": "3",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "23e26949-1176-8c15-e1b7-527db3c01802",
+     "correct": true,
+     "answer": "Traffic"
+    },
+    {
+     "_id": "0066414a-0c0f-0389-172e-ac0cb16caf60",
+     "correct": true,
+     "answer": "Birds & Flocking Behavior"
+    },
+    {
+     "_id": "d7cb4c86-f19f-8dff-6e27-6cf137ba9e79",
+     "correct": true,
+     "answer": "Watersheds and potential flooding"
+    },
+    {
+     "_id": "be2239ef-cf32-7b6a-c4c8-9f3482b9d779",
+     "correct": true,
+     "answer": "Voting and election results"
+    },
+    {
+     "_id": "0008ede1-1d7e-b896-cc9b-576f3487c229",
+     "correct": true,
+     "answer": "Weather"
+    },
+    {
+     "_id": "be4fc71d-115e-5781-2e97-61210a5c619c",
+     "correct": true,
+     "answer": "Disease Transmission"
+    }
+   ]
+  }
+ }
+]

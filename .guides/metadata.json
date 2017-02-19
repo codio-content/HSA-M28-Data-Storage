@@ -1,0 +1,47 @@
+{
+ "sections": [
+  {
+   "id": "9b1ec520-d6c4-fb1b-db27-03241fe40174",
+   "title": "Data Storage",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Storage-9b1e.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6076f5e9-80d5-5584-fa79-fbd7e751f67a",
+   "title": "Data Security",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Security-6076.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bef24b49-d844-2443-6f09-3084774bf35e",
+   "title": "Data Quiz",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Quiz-bef2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
